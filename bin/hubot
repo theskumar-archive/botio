@@ -7,5 +7,5 @@ HUBOT_IRC_SERVER=irc.freenode.net \
 HUBOT_IRC_ROOMS="#ophiofun" \
 HUBOT_IRC_NICK="Chotu" \
 HUBOT_IRC_UNFLOOD="true" \
-HUBOT_AUTH_ADMIN="Ryuzaki, Vikrant" \
+HUBOT_AUTH_ADMIN="Ryuzaki, Vikrant, theskumar" \
 exec node_modules/.bin/hubot -a irc --name Chotu "$@"
