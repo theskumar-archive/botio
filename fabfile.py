@@ -6,6 +6,8 @@ cwd = os.path.dirname(os.path.realpath(__file__))
 
 def devserver():
     print (cwd)
+    local('cd ' + cwd)
+    local('npm install')
     local(os.path.join(cwd, 'bin/hubot_local'))
 
 def deploy():
