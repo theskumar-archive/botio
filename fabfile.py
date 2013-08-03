@@ -11,5 +11,6 @@ def devserver():
     local(os.path.join(cwd, 'bin/hubot_local'))
 
 def deploy():
+    local('git push origin master')
     local('git push heroku master')
     local('heroku logs')
