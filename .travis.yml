@@ -1,0 +1,5 @@
+deploy:
+  provider: heroku
+  api_key:
+    secure: OyDrczPT96/uMDul0kDz08dMM4JGOU5cAw53Luy+wgEIw5y/fYeg0biNZsVWSjjUSS0+BOCbS4dHmZFaaMT67MhgiW1x7m8hEgHj48GGn0MUW2p/5dxTNTb4HMtSOlGvyGAwtDLWNSH9HfyBTxG/LnFLbNQfkvvj0uh6nQR8aFg=
+  app: tranquil-spire-5542
