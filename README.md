@@ -6,14 +6,10 @@ Botio is ophio's version of GitHub's Campfire bot, [hubot][hubot]. He's pretty c
 
 [hubot]: http://hubot.github.com/
 
-## setup
+## setup and running a local build
 
-Install `fabric` and then run `fab setup` from the cloned project repo.
+Install `fabric` and then run `fab devserver` in the project repo.
 
-
-## Running a local test server
-
-Run `fab devserver`
 
 ----
-Further updates soon
+Further updates to follow
