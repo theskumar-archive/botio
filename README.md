@@ -1,19 +1,19 @@
-NATHAN
-=======
+BOTIO
+=====
 
-This is a version of GitHub's Campfire bot, [hubot][hubot]. He's pretty cool.
+Botio is ophio's version of GitHub's Campfire bot, [hubot][hubot]. He's pretty cool.
 
 
 [hubot]: http://hubot.github.com/
 
 ## setup
 
-`fab setup`
+Install `fabric` and then run `fab setup` from the cloned project repo.
 
 
-## Running local Testing server
+## Running a local test server
 
-Use `fab devserver`
+Run `fab devserver`
 
 ----
 Further updates soon
