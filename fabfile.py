@@ -14,3 +14,6 @@ def deploy():
     local('git push origin master')
     local('git push heroku master')
     local('heroku logs')
+
+def setup():
+    local('npm install')
