@@ -1,8 +1,10 @@
 NATHAN
 =======
 
-This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
+This is a version of GitHub's Campfire bot, [hubot][hubot]. He's pretty cool.
 
+
+[hubot]: http://hubot.github.com/
 
 ## Running local Testing server
 
